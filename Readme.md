@@ -24,7 +24,7 @@ If you like this repo, be sure to ⭐ it.
   - [Website for code snippets](#website-for-code-snippets)
   - [Editor & playground](#editor-and-playground)
   - [Hosting](#hosting)
-  - [Api](#api)
+  - [APIs](#api)
 
 
 ---
@@ -188,7 +188,7 @@ If you like this repo, be sure to ⭐ it.
 
 [⬆ back to top](#table-of-contents)
 
-## Api
+## APIs
 | Website |
 | ----- |
 | Google Web Fonts API https://developers.google.com/fonts?csw=1 |
