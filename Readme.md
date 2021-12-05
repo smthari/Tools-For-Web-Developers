@@ -21,6 +21,7 @@ If you like this repo, be sure to ⭐ it.
   - [Image-enhancer:](#image-enhancer)
   - [Animation libraries](#animation-libraries)
   - [Cheatsheet](#Cheatsheet)
+  - [Website for code snippets](#website-for-code-snippets)
 
 
 ---
@@ -133,6 +134,26 @@ If you like this repo, be sure to ⭐ it.
 | Bootstrap 4 https://hackerthemes.com/bootstrap-cheatsheet |
 | Can i use https://caniuse.com |
 | Cheatography https://cheatography.com/programming |
+
+
+[⬆ back to top](#table-of-contents)
+
+## Website-for-code-snippets
+| Website |
+| ----- |
+| CSS Layout https://csslayout.io |
+| Codepad https://codepad.co |
+| Codemyui https://codemyui.com | 
+| CSS-tricks https://css-tricks.com/snippets |
+| CSS snippets https://css-snippets.com/snippets |
+| Codepen https://codepen.io/collection/DYpwPE |
+| Free frontend https://freefrontend.com/css-snippets|
+| 30secondofcode https://www.30secondsofcode.org |
+| HTML DOM https://htmldom.dev |
+| 1 LOC https://1loc.dev |
+| Vanilla JavaScript Toolkit https://vanillajstoolkit.com |
+| Thisthat https://thisthat.dev |
+
 
 
 [⬆ back to top](#table-of-contents)
