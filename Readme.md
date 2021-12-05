@@ -12,8 +12,8 @@ If you like this repo, be sure to ⭐ it.
 
 - [CSS-Generators](#CSS-generators)
 - [VS Code extensions](#VS-Code-extensions)
-- Vector images
-- Icons
+- [Vector images](#Vector-images)
+- [Icons](#Icons)
 - Enhance image quality
 - Animation libraries
 - Emmet
@@ -66,6 +66,35 @@ If you like this repo, be sure to ⭐ it.
 | Markdown all in one https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one |
 | Material Icon Theme https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme |
 | Prettier - Code formatter https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode |
+
+
+[⬆ back to top](#table-of-contents)
+
+## Vector-images:
+| Website |
+| ----- |
+| Undraw https://undraw.co |
+| FreeVectors https://www.freevectors.net |
+| Freepik https://www.freepik.com |
+| Humaans https://www.humaaans.com |
+
+
+[⬆ back to top](#table-of-contents)
+
+## Icons:
+| Website |
+| ----- |
+| Flaticon https://www.flaticon.com |
+| Icons8 https://icons8.com/icons/set/website |
+| Fontawesome icons https://fontawesome.com |
+| Iconfinder https://www.iconfinder.com |
+| GraphicBurger https://graphicburger.com/icons-set/ |
+| React icons https://react-icons.github.io/react-icons |
+| Material ui icons https://mui.com/components/material-icons |
+
+
+
+
 
 
 [⬆ back to top](#table-of-contents)
