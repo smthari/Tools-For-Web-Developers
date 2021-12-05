@@ -23,6 +23,7 @@ If you like this repo, be sure to ⭐ it.
   - [Cheatsheet](#Cheatsheet)
   - [Website for code snippets](#website-for-code-snippets)
   - [Editor & playground](#editor-and-playground)
+  - [Hosting](#hosting)
 
 
 ---
@@ -130,7 +131,7 @@ If you like this repo, be sure to ⭐ it.
 | Javascript cheatsheet https://ilovecoding.org/blog/js-cheatsheet |
 | React cheatsheet http://www.developer-cheatsheets.com/react |
 | GitSheet https://gitsheet.wtf |
-| Media queries https://mac-blog.org.ua/css-3-media-queries-cheat-sheet |
+| Media queries https://mac-blog.org.ua/css-3-media-queries-cheat-sheet 
 | OverAPI https://overapi.com/javascript |
 | Bootstrap 4 https://hackerthemes.com/bootstrap-cheatsheet |
 | Can i use https://caniuse.com |
@@ -173,3 +174,15 @@ If you like this repo, be sure to ⭐ it.
 
 [⬆ back to top](#table-of-contents)
 
+
+## hosting
+| Website |
+| ----- |
+| AWS https://aws.amazon.com/free |
+| Google Cloud Service https://cloud.google.com/free |
+| Github Page https://pages.github.com | 
+| Netlify https://www.netlify.com |
+| Firebase Hosting https://firebase.google.com/products/hosting?|
+
+
+[⬆ back to top](#table-of-contents)
