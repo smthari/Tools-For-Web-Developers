@@ -47,16 +47,16 @@ If you like this repo, be sure to ⭐ it.
 |Glassmorphism https://hype4.academy/toolsglassmorphism-generator |
 |Button https://www.bestcssbuttongenerator.com |
 
-[⬆ back to top](#table-of-contents)
+[⬆ back to top](#table-of-**contents**)
 
 ## VS-Code-extensions:
-| Website |****
+| Website |
 | ----- |
 | Auto rename tag https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag |
 | Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer |
 | Codesnap https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap |
 | CSS Formatter https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter |
-| ES7 React/Redux/GraphQL/React-Native snippets https://marketplace.visualstudio.com/items?itemName=dsznajder. |es7-react-js-snippets
+| ES7 React/Redux/GraphQL/React-Native snippets https://marketplace.visualstudio.com/items?itemName=dsznajderes7-react-js-snippets |
 | GitLens — Git supercharged https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens |
 | HTML Snippets https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets |
 | indent-rainbow https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow |
