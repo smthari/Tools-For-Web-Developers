@@ -24,7 +24,7 @@ If you like this repo, be sure to ⭐ it.
   - [Website for code snippets](#website-for-code-snippets)
   - [Editor & playground](#editor-and-playground)
   - [Hosting](#hosting)
-  - [APIs](#api)
+  - [APIs](#APIs)
   - [React UI Libraries](#react-ui-libraries)
   - [QNA Websites](#QNA-websites)
   - [Chrome extensions](#Chrome-extensions)
