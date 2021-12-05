@@ -20,6 +20,7 @@ If you like this repo, be sure to ⭐ it.
   - [Icons:](#icons)
   - [Image-enhancer:](#image-enhancer)
   - [Animation libraries](#animation-libraries)
+  - [Cheatsheet](#Cheatsheet)
 
 
 ---
@@ -114,6 +115,25 @@ If you like this repo, be sure to ⭐ it.
 | Michalsnik https://michalsnik.github.io/aos |
 | Three.js https://threejs.org |
 | Splidejs https://splidejs.com |
+
+
+[⬆ back to top](#table-of-contents)
+
+## Cheatsheet
+| Website |
+| ----- |
+| html cheatsheet https://htmlcheatsheet.com |
+| Grid layout https://grid.malven.co |
+| flexbox https://flexbox.malven.co | 
+| grid https://grid.malven.co |
+| Javascript cheatsheet https://ilovecoding.org/blog/js-cheatsheet |
+| React cheatsheet http://www.developer-cheatsheets.com/react |
+| GitSheet https://gitsheet.wtf |
+| Media queries https://mac-blog.org.ua/css-3-media-queries-cheat-sheet |
+| OverAPI https://overapi.com/javascript |
+| Bootstrap 4 https://hackerthemes.com/bootstrap-cheatsheet |
+| Can i use https://caniuse.com |
+| Cheatography https://cheatography.com/programming |
 
 
 [⬆ back to top](#table-of-contents)
