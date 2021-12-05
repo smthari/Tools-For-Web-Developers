@@ -26,6 +26,7 @@ If you like this repo, be sure to ⭐ it.
   - [Hosting](#hosting)
   - [APIs](#api)
   - [React UI Libraries](#react-ui-libraries)
+  - [QNA Websites](#QNA-websites)
 
 
 ---
@@ -218,3 +219,14 @@ If you like this repo, be sure to ⭐ it.
 
 
 [⬆ back to top](#table-of-contents)
+
+## QNA-websites
+| Website |
+| ----- |
+| StackOverflow https://stackoverflow.com |
+| Quora https://quora.com |
+| Reddit REDDIT.com |
+| StackExchange https://stackexchange.com | 
+
+[⬆ back to top](#table-of-contents)
+
