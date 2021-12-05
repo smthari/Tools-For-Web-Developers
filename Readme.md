@@ -11,8 +11,7 @@ If you like this repo, be sure to ⭐ it.
 ## Table of Contents
 
 - [CSS-Generators](#CSS-generators)
-- CSS framework
-- VS Code extensions
+- [VS Code extensions](#VS-Code-extensions)
 - Vector images
 - Icons
 - Enhance image quality
@@ -48,5 +47,25 @@ If you like this repo, be sure to ⭐ it.
 |Glassmorphism https://hype4.academy/toolsglassmorphism-generator |
 |Button https://www.bestcssbuttongenerator.com |
 
+[⬆ back to top](#table-of-contents)
+
+## VS-Code-extensions:
+| Website |****
+| ----- |
+| Auto rename tag https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag |
+| Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer |
+| Codesnap https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap |
+| CSS Formatter https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter |
+| ES7 React/Redux/GraphQL/React-Native snippets https://marketplace.visualstudio.com/items?itemName=dsznajder. |es7-react-js-snippets
+| GitLens — Git supercharged https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens |
+| HTML Snippets https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets |
+| indent-rainbow https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow |
+| JavaScript (ES6) code snippets https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets |
+| Liver server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer |
+| Live share https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare |
+| Markdown all in one https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one |
+| Material Icon Theme https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme |
+| Prettier - Code formatter https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode |
 
 
+[⬆ back to top](#table-of-contents)
