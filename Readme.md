@@ -56,7 +56,7 @@ If you like this repo, be sure to ⭐ it.
 | Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer |
 | Codesnap https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap |
 | CSS Formatter https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter |
-| ES7 React/Redux/GraphQL/React-Native snippets https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippetsitemName=dsznajderes7-react-js-snippets |
+| ES7 React/Redux/GraphQL/React-Native snippets https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets |
 | GitLens — Git supercharged https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens |
 | HTML Snippets https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets |
 | indent-rainbow https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow |
