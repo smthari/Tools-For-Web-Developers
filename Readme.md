@@ -27,6 +27,7 @@ If you like this repo, be sure to ⭐ it.
   - [APIs](#api)
   - [React UI Libraries](#react-ui-libraries)
   - [QNA Websites](#QNA-websites)
+  - [Chrome extensions](#Chrome-extensions)
 
 
 ---
@@ -230,3 +231,19 @@ If you like this repo, be sure to ⭐ it.
 
 [⬆ back to top](#table-of-contents)
 
+## Chrome-extensions
+| Website |
+| ----- |
+| Gofullpage  |
+| CSSViewer  |
+| Fonts Ninja  |
+| ColorZilla | 
+| Window Resizer |
+| Wappalyzer |
+| Rwd tester |
+| JSON Viewer | 
+| React developer tool |
+
+
+
+[⬆ back to top](#table-of-contents)
