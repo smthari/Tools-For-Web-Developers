@@ -3,6 +3,21 @@
 
 # Tools For Web Developers
 
+<style>
+  img {
+    width: 20px;
+    height: 20px;
+    position:relative;
+    border-radius:50%;
+    vertical-align: middle;
+    margin:5px;
+}
+
+a:focus {
+  outline:none;
+}
+  </style>
+
 This is an awesome project about Web Development tools. ⚡
 
 Resources are added frequently! ⚡
@@ -20,20 +35,7 @@ Follow on
 
 ## Table of Contents
 
-<style>
-  img {
-    width: 20px;
-    height: 20px;
-    position:relative;
-    border-radius:50%;
-    vertical-align: middle;
-    margin:5px;
-}
 
-a:focus {
-  outline:none;
-}
-  </style>
 
 ---
   - [CSS-Generators](#css-generators)
