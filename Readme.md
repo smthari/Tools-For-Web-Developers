@@ -49,7 +49,7 @@ If you like this repo, be sure to ⭐ it.
 |Glassmorphism https://hype4.academy/toolsglassmorphism-generator |
 |Button https://www.bestcssbuttongenerator.com |
 
-[⬆ back to top](#table-of-**contents**)
+[⬆ back to top](#table-of-contents)
 
 ## VS-Code-extensions:
 | Website |
