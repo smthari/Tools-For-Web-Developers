@@ -10,7 +10,6 @@ If you like this repo, be sure to ⭐ it.
 
 ## Table of Contents
 
-- [Hosting](#hosting)
 - [CSS-Generators](#CSS-generators)
 - CSS framework
 - VS Code extensions
@@ -31,8 +30,6 @@ If you like this repo, be sure to ⭐ it.
 - FAQ
 - Chrome extensions
 - Transpiler 
-
-## Hosting:
 
 ## CSS-Generators:
 | Website |
