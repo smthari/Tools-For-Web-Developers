@@ -1,3 +1,6 @@
+
+---
+
 # Tools For Web Developers
 
 This is an awesome project about Web Development tools. ⚡
@@ -10,25 +13,14 @@ If you like this repo, be sure to ⭐ it.
 
 ## Table of Contents
 
-- [CSS-Generators](#CSS-generators)
-- [VS Code extensions](#VS-Code-extensions)
-- [Vector images](#Vector-images)
-- [Icons](#Icons)
-- Enhance image quality
-- Animation libraries
-- Emmet
-- Cheatsheet
-- Code snippets
-- Roadmap
-- Editor & playground
-- Hosting 
-- Api
-- Blog
-- Small projects
-- React UI Libraries 
-- FAQ
-- Chrome extensions
-- Transpiler 
+---
+  - [CSS-Generators:](#css-generators)
+  - [VS-Code-extensions:](#vs-code-extensions)
+  - [Vector-images:](#vector-images)
+  - [Icons:](#icons)
+  - [Image-enhancer:](#image-enhancer)
+
+---
 
 ## CSS-Generators:
 | Website |
@@ -93,7 +85,15 @@ If you like this repo, be sure to ⭐ it.
 | Material ui icons https://mui.com/components/material-icons |
 
 
+[⬆ back to top](#table-of-contents)
 
+## Image-enhancer:
+| Website |
+| ----- |
+| Img upscaler https://imgupscaler.com |
+| Upscale pics https://upscalepics.com |
+| Img larger https://imglarger.com/Enhancer| 
+| Adobe spark https://www.adobe.com/express/feature/image/enhance |
 
 
 
