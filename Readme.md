@@ -175,7 +175,7 @@ If you like this repo, be sure to ⭐ it.
 [⬆ back to top](#table-of-contents)
 
 
-## hosting
+## Hosting
 | Website |
 | ----- |
 | AWS https://aws.amazon.com/free |
