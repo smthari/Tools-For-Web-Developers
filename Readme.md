@@ -22,7 +22,7 @@ If you like this repo, be sure to ⭐ it.
   - [Animation libraries](#animation-libraries)
   - [Cheatsheet](#Cheatsheet)
   - [Website for code snippets](#website-for-code-snippets)
-  - [Editor & playground](#editor-&-playground)
+  - [Editor & playground](#editor-and-playground)
 
 
 ---
@@ -160,7 +160,7 @@ If you like this repo, be sure to ⭐ it.
 [⬆ back to top](#table-of-contents)
 
 
-## Editor-&-playground
+## Editor-and-playground
 | Website |
 | ----- |
 | Codesandbox https://codesandbox.io |
