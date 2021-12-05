@@ -26,7 +26,7 @@ If you like this repo, be sure to ⭐ it.
   - [Hosting](#hosting)
   - [APIs](#api)
   - [React UI Libraries](#react-ui-libraries)
-  - [Q&A Websites](#Q&A-websites)
+  - [QNA Websites](#QNA-websites)
 
 
 ---
@@ -220,7 +220,7 @@ If you like this repo, be sure to ⭐ it.
 
 [⬆ back to top](#table-of-contents)
 
-## Q&A-websites
+## QNA-websites
 | Website |
 | ----- |
 | StackOverflow https://stackoverflow.com |
