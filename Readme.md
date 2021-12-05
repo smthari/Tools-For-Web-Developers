@@ -101,7 +101,7 @@ If you like this repo, be sure to ⭐ it.
 
 [⬆ back to top](#table-of-contents)
 
-## animation-libraries:
+## Animation-libraries:
 | Website |
 | ----- |
 | Animista https://animista.net |
