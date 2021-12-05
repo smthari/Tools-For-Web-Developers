@@ -125,7 +125,6 @@ If you like this repo, be sure to ⭐ it.
 | html cheatsheet https://htmlcheatsheet.com |
 | Grid layout https://grid.malven.co |
 | flexbox https://flexbox.malven.co | 
-| grid https://grid.malven.co |
 | Javascript cheatsheet https://ilovecoding.org/blog/js-cheatsheet |
 | React cheatsheet http://www.developer-cheatsheets.com/react |
 | GitSheet https://gitsheet.wtf |
