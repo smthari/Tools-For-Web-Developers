@@ -19,6 +19,8 @@ If you like this repo, be sure to ⭐ it.
   - [Vector-images:](#vector-images)
   - [Icons:](#icons)
   - [Image-enhancer:](#image-enhancer)
+  - [Animation libraries](#animation-libraries)
+
 
 ---
 
@@ -95,6 +97,23 @@ If you like this repo, be sure to ⭐ it.
 | Img larger https://imglarger.com/Enhancer| 
 | Adobe spark https://www.adobe.com/express/feature/image/enhance |
 
+
+
+[⬆ back to top](#table-of-contents)
+
+## animation-libraries:
+| Website |
+| ----- |
+| Animista https://animista.net |
+| Animate.css https://animate.style |
+| Magic effects https://www.minimamente.com/project/magic| 
+| Hover.css https://ianlunn.github.io/Hover |
+| CSS shake https://elrumordelaluz.github.io/csshake |
+| Swiper.js https://swiperjs.com |
+| Greensock https://greensock.com |
+| Michalsnik https://michalsnik.github.io/aos |
+| Three.js https://threejs.org |
+| Splidejs https://splidejs.com |
 
 
 [⬆ back to top](#table-of-contents)
