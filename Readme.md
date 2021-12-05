@@ -24,6 +24,7 @@ If you like this repo, be sure to ⭐ it.
   - [Website for code snippets](#website-for-code-snippets)
   - [Editor & playground](#editor-and-playground)
   - [Hosting](#hosting)
+  - [Api](#api)
 
 
 ---
@@ -183,6 +184,23 @@ If you like this repo, be sure to ⭐ it.
 | Github Page https://pages.github.com | 
 | Netlify https://www.netlify.com |
 | Firebase Hosting https://firebase.google.com/products/hosting?|
+
+
+[⬆ back to top](#table-of-contents)
+
+## Api
+| Website |
+| ----- |
+| Google Web Fonts API https://developers.google.com/fonts?csw=1 |
+| OpenSocial http://www.opensocial.org |
+| Instamojo https://www.instamojo.com/developers |
+| YouTube APIs https://developers.google.com/youtube/v3 | 
+| Twitter APIs https://developer.twitter.com/en |
+| Facebook APIs https://developers.facebook.com |
+| Unsplash https://unsplash.com/developers |
+| Spotify https://developer.spotify.com/discover |
+| Mailchimp https://mailchimp.com/developer |
+| Disqus https://disqus.com/api/docs |
 
 
 [⬆ back to top](#table-of-contents)
