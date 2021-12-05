@@ -14,10 +14,10 @@ If you like this repo, be sure to ⭐ it.
 ## Table of Contents
 
 ---
-  - [CSS-Generators:](#css-generators)
-  - [VS-Code-extensions:](#vs-code-extensions)
+  - [CSS-Generators](#css-generators)
+  - [VS-Code-extensions](#vs-code-extensions)
   - [Vector-images](#vector-images)
-  - [Icons:](#icons)
+  - [Icons](#icons)
   - [Image-enhancer:](#image-enhancer)
   - [Animation libraries](#animation-libraries)
   - [Cheatsheet](#Cheatsheet)
