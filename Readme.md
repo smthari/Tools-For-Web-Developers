@@ -22,7 +22,7 @@ If you like this repo, be sure to ⭐ it.
   - [Animation libraries](#animation-libraries)
   - [Cheatsheet](#Cheatsheet)
   - [Website for code snippets](#website-for-code-snippets)
-  - [Editor & playground](#Editor-&-playground)
+  - [Editor & playground](#editor-&-playground)
 
 
 ---
