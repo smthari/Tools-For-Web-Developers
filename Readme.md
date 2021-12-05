@@ -11,7 +11,29 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
+Created by [Sumit Harijan](https://github.com/smthari) 
+--- 
+Follow on 
+<a href="https://www.instagram.com/codingsumit/">![instagram](assets/icons/instagram.jpg) </a>
+<a href="https://github.com/smthari" >![linkedin](assets/icons/github.png)</a>
+
+
 ## Table of Contents
+
+<style>
+  img {
+    width: 20px;
+    height: 20px;
+    position:relative;
+    border-radius:50%;
+    vertical-align: middle;
+    margin:5px;
+}
+
+a:focus {
+  outline:none;
+}
+  </style>
 
 ---
   - [CSS-Generators](#css-generators)
