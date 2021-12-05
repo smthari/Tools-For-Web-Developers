@@ -168,7 +168,6 @@ If you like this repo, be sure to ⭐ it.
 | VS Code online https://vscode.dev | 
 | VS Code https://code.visualstudio.com/download |
 | Sublime text editor https://www.sublimetext.com/3 |
-| Codepen https://codepen.io/collection/DYpwPE |
 | Markdown editor https://stackedit.io|
 
 
