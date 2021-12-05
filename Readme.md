@@ -3,7 +3,7 @@
 
 # Tools For Web Developers
 
-<style>
+<!-- <style>
   img {
     width: 20px;
     height: 20px;
@@ -16,7 +16,7 @@
 a:focus {
   outline:none;
 }
-  </style>
+  </style> -->
 
 This is an awesome project about Web Development tools. ⚡
 
@@ -28,10 +28,6 @@ If you like this repo, be sure to ⭐ it.
 
 Created by [Sumit Harijan](https://github.com/smthari) 
 --- 
-Follow on 
-<a href="https://www.instagram.com/codingsumit/">![instagram](assets/icons/instagram.jpg) </a>
-<a href="https://github.com/smthari" >![linkedin](assets/icons/github.png)</a>
-
 
 ## Table of Contents
 
