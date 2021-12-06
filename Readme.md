@@ -3,13 +3,6 @@
 
 # Tools For Web Developers
 
-<style>
-  button {
-    display:inline-block;
-    position:relative;
-  }
-  </style>
-
 This is an awesome project about Web Development tools. ⚡
 
 Resources are added frequently! ⚡
@@ -18,7 +11,7 @@ Enjoy!
 
 
 <!-- Place this tag where you want the button to render. -->
-If you like this repo, be sure to  <a class="github-button" href="https://github.com/smthari/Tools-For-Web-Developers" data-icon="octicon-star" aria-label="Star smthari/Tools-For-Web-Developers on GitHub">Star</a> ⭐ it.
+If you like this repo, be sure to ⭐ it.
 
 Created by [Sumit Harijan](https://github.com/smthari) 
 --- 
@@ -259,6 +252,3 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | React developer tool |
 
 [⬆ back to top](#table-of-contents)
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
