@@ -25,6 +25,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 ---
   - [CSS-Generators](#css-generators)
   - [VS-Code-extensions](#vs-code-extensions)
+  - [Frontend challenge](#frontend-challenge)
   - [Vector-images](#vector-images)
   - [Icons](#icons)
   - [Image-enhancer:](#image-enhancer)
@@ -78,6 +79,14 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | Material Icon Theme https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme |
 | Prettier - Code formatter https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode |
 
+
+[⬆ back to top](#table-of-contents)
+
+## Frontend-challenge:
+| Website |
+| ----- |
+| Frontend mentor https://www.frontendmentor.io |
+| Code mentor https://www.codementor.io/projects |
 
 [⬆ back to top](#table-of-contents)
 
@@ -213,7 +222,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | Spotify https://developer.spotify.com/discover |
 | Mailchimp https://mailchimp.com/developer |
 | Disqus https://disqus.com/api/docs |
-| ChatBot https://www.chatbot.com |
+| ChatBot https://chatbot.com |
 
 
 [⬆ back to top](#table-of-contents)
