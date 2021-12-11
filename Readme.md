@@ -211,6 +211,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | Spotify https://developer.spotify.com/discover |
 | Mailchimp https://mailchimp.com/developer |
 | Disqus https://disqus.com/api/docs |
+| ChatBot https://www.chatbot.com |
 
 
 [⬆ back to top](#table-of-contents)
