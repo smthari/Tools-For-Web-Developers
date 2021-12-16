@@ -26,6 +26,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [CSS-Generators](#css-generators)
   - [VS-Code-extensions](#vs-code-extensions)
   - [Frontend challenge](#frontend-challenge)
+  - [Frontend projects](#frontend-projects)
   - [Vector-images](#vector-images)
   - [Icons](#icons)
   - [Image-enhancer:](#image-enhancer)
@@ -88,6 +89,12 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | Frontend mentor https://www.frontendmentor.io |
 | Code mentor https://www.codementor.io/projects |
 | crio https://www.crio.do/projects/ |
+
+
+## Frontend-projects
+| Website |
+| ----- |
+| Freefrontend https://freefrontend.com |
 | Front code https://front.codes|
 
 [⬆ back to top](#table-of-contents)
