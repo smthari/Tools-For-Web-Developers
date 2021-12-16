@@ -106,6 +106,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | FreeVectors https://www.freevectors.net |
 | Freepik https://www.freepik.com |
 | Humaans https://www.humaaans.com |
+| Open Doodles https://www.opendoodles.com |
 
 
 [⬆ back to top](#table-of-contents)
