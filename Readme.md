@@ -5,7 +5,7 @@
 
 This is an awesome project about Web Development tools. ⚡
 
-Resources are added frequently! ⚡
+Tools are added frequently! ⚡
 
 Enjoy!
 
