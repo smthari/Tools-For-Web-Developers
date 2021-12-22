@@ -13,7 +13,7 @@ Enjoy!
 <!-- Place this tag where you want the button to render. -->
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
+Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new tool.
 
 Created by [Sumit Harijan](https://github.com/smthari) 
 --- 
