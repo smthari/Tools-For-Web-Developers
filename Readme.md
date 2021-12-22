@@ -175,7 +175,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 ## Website-for-code-snippets
 | Website |
 | ----- |
-| [CSS Layout] (https://csslayout.io) |
+| [CSS Layout](https://csslayout.io) |
 | [Codepad](https://codepad.co) |
 | [Codemyui](https://codemyui.com) | 
 | [CSS-tricks](https://css-tricks.com/snippets) |
