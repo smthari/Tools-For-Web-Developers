@@ -264,14 +264,19 @@ Created by [Sumit Harijan](https://github.com/smthari)
 ## Chrome-extensions
 | Website |
 | ----- |
-| Gofullpage  |
-| CSSViewer  |
-| Fonts Ninja  |
-| ColorZilla | 
-| Window Resizer |
-| Wappalyzer |
-| Rwd tester |
-| JSON Viewer | 
-| React developer tool |
+| [Gofullpage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?utm_source=chrome-ntp-icon) |
+| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?utm_source=chrome-ntp-icon) |
+| [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?utm_source=chrome-ntp-icon) |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=chrome-ntp-icon) |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?utm_source=chrome-ntp-icon) |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon) |
+| [Rwd tester](https://chrome.google.com/webstore/detail/responsive-tester/ppbjpbekhmnekpphljbmeafemfiolbki?utm_source=chrome-ntp-icon) |
+| [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?utm_source=chrome-ntp-icon) |
+| [React developer tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=chrome-ntp-icon) |
+| [Mobile simulator](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk?utm_source=chrome-ntp-icon) |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?utm_source=chrome-ntp-icon) |
+| [CSS peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?utm_source=chrome-ntp-icon) |
+| [Built with](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?utm_source=chrome-ntp-icon) |
+
 
 [⬆ back to top](#table-of-contents)
