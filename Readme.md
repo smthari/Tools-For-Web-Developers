@@ -107,6 +107,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Freepik](https://www.freepik.com) |
 | [Humaans](https://www.humaaans.com )|
 | [Open Doodles](https://www.opendoodles.com) |
+| [Vector Illustrations](https://www.artify.co/vector-illustrations) |
 
 
 [⬆ back to top](#table-of-contents)
