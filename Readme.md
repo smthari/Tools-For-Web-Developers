@@ -108,6 +108,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Humaans](https://www.humaaans.com )|
 | [Open Doodles](https://www.opendoodles.com) |
 | [Vector Illustrations](https://www.artify.co/vector-illustrations) |
+| [Illustrations Figma](https://www.artify.co/illustrations-figma) |
 
 
 [⬆ back to top](#table-of-contents)
@@ -122,6 +123,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [GraphicBurger](https://graphicburger.com/icons-set) |
 | [React icons](https://react-icons.github.io/react-icons) |
 | [Material ui icons](https://mui.com/components/material-icons) |
+| [3dicons](https://www.3dicons.com/) |
+| [Iconshock](https://www.iconshock.com/) |
 
 
 [⬆ back to top](#table-of-contents)
@@ -133,6 +136,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Upscale pics](https://upscalepics.com) |
 | [Img larger](https://imglarger.com/Enhancer)| 
 | [Adobe spark](https://www.adobe.com/express/feature/image/enhance) |
+| [Optimizeimages](https://www.optimizeimages.com) |
 
 
 
