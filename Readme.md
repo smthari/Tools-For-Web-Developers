@@ -173,6 +173,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet) |
 | [Can i use](https://caniuse.com) |
 | [Cheatography](https://cheatography.com/programming) |
+| [Glider](https://nickpiscitelli.github.io/Glider.js/) |
 
 
 [⬆ back to top](#table-of-contents)
