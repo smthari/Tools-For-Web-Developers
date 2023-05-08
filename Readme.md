@@ -125,6 +125,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Material ui icons](https://mui.com/components/material-icons) |
 | [3dicons](https://www.3dicons.com/) |
 | [Iconshock](https://www.iconshock.com/) |
+| [ICONS-icons - free ](https://icon-icons.com/) |
+| [uxwing-icons - free ](https://uxwing.com//) |
 
 
 [⬆ back to top](#table-of-contents)
