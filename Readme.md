@@ -79,6 +79,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
 | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |
 | [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
+| [Glean - React tool ](https://marketplace.visualstudio.com/items?itemName=wix.glean)|
 
 
 [⬆ back to top](#table-of-contents)
