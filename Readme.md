@@ -39,6 +39,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [React UI Libraries](#react-ui-libraries)
   - [QNA Websites](#QNA-websites)
   - [Chrome extensions](#Chrome-extensions)
+  - [Others](#others)
 
 
 ---
@@ -290,3 +291,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
 
 
 [⬆ back to top](#table-of-contents)
+
+## others 
+| Website |
+| ----- |
+| [Mixkit](https://mixkit.co/)|
