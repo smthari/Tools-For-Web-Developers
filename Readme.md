@@ -39,6 +39,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [React UI Libraries](#react-ui-libraries)
   - [QNA Websites](#QNA-websites)
   - [Chrome extensions](#Chrome-extensions)
+  - [Animation Stocks](#animationstocks)
 
 
 ---
@@ -288,5 +289,14 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Built with](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?utm_source=chrome-ntp-icon) |
 | [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en) |
 
+
+[⬆ back to top](#table-of-contents)
+
+## animationstocks
+
+| Website |
+| ----- |
+| [Animated icons](https://www.flaticon.com/search?word=learning&type=animated-icon)|
+| [Animated videos vectors](https://lottiefiles.com/) | 
 
 [⬆ back to top](#table-of-contents)
