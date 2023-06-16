@@ -40,6 +40,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [QNA Websites](#QNA-websites)
   - [Chrome extensions](#Chrome-extensions)
   - [Animation Stocks](#animationstocks)
+  - [Others](#others)
 
 
 ---
@@ -300,3 +301,9 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Animated videos vectors](https://lottiefiles.com/) | 
 
 [⬆ back to top](#table-of-contents)
+
+## others 
+| Website |
+| ----- |
+| [Mixkit](https://mixkit.co/)|
+
