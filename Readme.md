@@ -39,6 +39,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [React UI Libraries](#react-ui-libraries)
   - [QNA Websites](#QNA-websites)
   - [Chrome extensions](#Chrome-extensions)
+  - [Animation Stocks](#animationstocks)
   - [Others](#others)
 
 
@@ -292,7 +293,17 @@ Created by [Sumit Harijan](https://github.com/smthari)
 
 [⬆ back to top](#table-of-contents)
 
+## animationstocks
+
+| Website |
+| ----- |
+| [Animated icons](https://www.flaticon.com/search?word=learning&type=animated-icon)|
+| [Animated videos vectors](https://lottiefiles.com/) | 
+
+[⬆ back to top](#table-of-contents)
+
 ## others 
 | Website |
 | ----- |
 | [Mixkit](https://mixkit.co/)|
+
