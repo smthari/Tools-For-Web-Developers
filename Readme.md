@@ -39,6 +39,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [React UI Libraries](#react-ui-libraries)
   - [QNA Websites](#QNA-websites)
   - [Chrome extensions](#Chrome-extensions)
+  - [Animation Stocks](#animationstocks)
+  - [Others](#others)
 
 
 ---
@@ -79,6 +81,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
 | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) |
 | [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
+| [Glean - React tool ](https://marketplace.visualstudio.com/items?itemName=wix.glean)|
 
 
 [⬆ back to top](#table-of-contents)
@@ -125,6 +128,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Material ui icons](https://mui.com/components/material-icons) |
 | [3dicons](https://www.3dicons.com/) |
 | [Iconshock](https://www.iconshock.com/) |
+| [ICONS-icons - free ](https://icon-icons.com/) |
+| [uxwing-icons - free ](https://uxwing.com//) |
 
 
 [⬆ back to top](#table-of-contents)
@@ -173,6 +178,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Bootstrap 4](https://hackerthemes.com/bootstrap-cheatsheet) |
 | [Can i use](https://caniuse.com) |
 | [Cheatography](https://cheatography.com/programming) |
+| [Glider](https://nickpiscitelli.github.io/Glider.js/) |
 
 
 [⬆ back to top](#table-of-contents)
@@ -282,6 +288,22 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?utm_source=chrome-ntp-icon) |
 | [CSS peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?utm_source=chrome-ntp-icon) |
 | [Built with](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?utm_source=chrome-ntp-icon) |
+| [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en) |
 
 
 [⬆ back to top](#table-of-contents)
+
+## animationstocks
+
+| Website |
+| ----- |
+| [Animated icons](https://www.flaticon.com/search?word=learning&type=animated-icon)|
+| [Animated videos vectors](https://lottiefiles.com/) | 
+
+[⬆ back to top](#table-of-contents)
+
+## others 
+| Website |
+| ----- |
+| [Mixkit](https://mixkit.co/)|
+
