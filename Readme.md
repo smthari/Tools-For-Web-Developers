@@ -306,7 +306,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 ## stock 
 | Website |
 | ----- |
-| [Free - images | videos | sound effects | music | - Mixkit](https://mixkit.co/)|
-| [Free - images | videos | sound effects | music | - Pixabay ](https://pixabay.com/) | 
-| [Free - images | videos  - Pixabay ](https://pixabay.com/) | 
+| [Free - images,videos,sound effects,music - Mixkit](https://mixkit.co/)|
+| [Free - images,videos,sound effects,music - Pixabay ](https://pixabay.com/) | 
+| [Free - images,videos  - Pixabay ](https://pixabay.com/) | 
 
