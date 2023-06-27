@@ -41,6 +41,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [Chrome extensions](#Chrome-extensions)
   - [Animation Stocks](#animationstocks)
   - [Stock](#stock)
+  - [Inspiration](#Inspiration)
 
 
 ---
@@ -309,4 +310,11 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Free - images,videos,sound effects,music - Mixkit](https://mixkit.co/)|
 | [Free - images,videos,sound effects,music - Pixabay ](https://pixabay.com/) | 
 | [Free - images,videos  - Pixabay ](https://pixabay.com/) | 
+
+## Inspiration 
+| Website |
+| ----- |
+| [Artstation](https://www.artstation.com/)|
+| [Motion Array](https://motionarray.com/) | 
+| [Videezy - Video template ](https://www.videezy.com/) | 
 
