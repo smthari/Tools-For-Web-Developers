@@ -309,7 +309,9 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | ----- |
 | [Free - images,videos,sound effects,music - Mixkit](https://mixkit.co/)|
 | [Free - images,videos,sound effects,music - Pixabay ](https://pixabay.com/) | 
-| [Free - images,videos  - Pixabay ](https://pixabay.com/) | 
+| [Free - images,videos,sound effects,music, premiere pro effects etc - video.net ](https://www.videvo.net/)|
+| [Free - images,videos  - Pexels ](https://www.pexels.com/) | 
+| [Free - images,videos,vectors  - vecteezy ](https://www.vecteezy.com/) |
 
 ## Inspiration 
 | Website |
