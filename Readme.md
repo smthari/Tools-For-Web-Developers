@@ -40,7 +40,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [QNA Websites](#QNA-websites)
   - [Chrome extensions](#Chrome-extensions)
   - [Animation Stocks](#animationstocks)
-  - [Others](#others)
+  - [Stock](#stock)
+  - [Inspiration](#Inspiration)
 
 
 ---
@@ -112,6 +113,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Open Doodles](https://www.opendoodles.com) |
 | [Vector Illustrations](https://www.artify.co/vector-illustrations) |
 | [Illustrations Figma](https://www.artify.co/illustrations-figma) |
+| [IconScout](https://iconscout.com/) | 
 
 
 [⬆ back to top](#table-of-contents)
@@ -302,8 +304,17 @@ Created by [Sumit Harijan](https://github.com/smthari)
 
 [⬆ back to top](#table-of-contents)
 
-## others 
+## stock 
 | Website |
 | ----- |
-| [Mixkit](https://mixkit.co/)|
+| [Free - images,videos,sound effects,music - Mixkit](https://mixkit.co/)|
+| [Free - images,videos,sound effects,music - Pixabay ](https://pixabay.com/) | 
+| [Free - images,videos  - Pixabay ](https://pixabay.com/) | 
+
+## Inspiration 
+| Website |
+| ----- |
+| [Artstation](https://www.artstation.com/)|
+| [Motion Array](https://motionarray.com/) | 
+| [Videezy - Video template ](https://www.videezy.com/) | 
 
