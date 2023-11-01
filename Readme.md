@@ -144,6 +144,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Img larger](https://imglarger.com/Enhancer)| 
 | [Adobe spark](https://www.adobe.com/express/feature/image/enhance) |
 | [Optimizeimages](https://www.optimizeimages.com) |
+| [Smart Upscaler](https://icons8.com/upscaler) |
 
 
 
