@@ -181,6 +181,8 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Can i use](https://caniuse.com) |
 | [Cheatography](https://cheatography.com/programming) |
 | [Glider](https://nickpiscitelli.github.io/Glider.js/) |
+| [Command Line Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli) |
+| [Git Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git) |
 
 
 [⬆ back to top](#table-of-contents)
