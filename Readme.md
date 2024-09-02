@@ -42,7 +42,7 @@ Created by [Sumit Harijan](https://github.com/smthari)
   - [Animation Stocks](#animationstocks)
   - [Stock](#stock)
   - [Inspiration](#Inspiration)
-
+  - [Flowchart & Diagram](#Flowchart-and-Diagram)
 
 ---
 
@@ -319,4 +319,11 @@ Created by [Sumit Harijan](https://github.com/smthari)
 | [Artstation](https://www.artstation.com/)|
 | [Motion Array](https://motionarray.com/) | 
 | [Videezy - Video template ](https://www.videezy.com/) | 
+
+
+## Flowchart & Diagram
+| Website |
+| ----- |
+| [Whimsical](https://whimsical.com/)|
+| [Excalidraw](https://excalidraw.com/) | 
 
